@@ -1,23 +1,20 @@
+---
+description: 本文介绍采购人登录系统后，如何发起采购需求的操作。
+---
+
 # 我要发起采购工作
 
-## Getting Super Powers
+## 发起工作
 
-Becoming a super hero is a fairly straight forward process:
+登录成功后，点击【发起工作】按钮，进入选择菜单界面。
 
-```
-$ give me super-powers
-```
+![&#x3010;&#x53D1;&#x8D77;&#x5DE5;&#x4F5C;&#x3011;&#x6309;&#x94AE;](.gitbook/assets/image%20%2811%29.png)
+
+![&#x83DC;&#x5355;&#x9009;&#x62E9;&#x753B;&#x9762;](.gitbook/assets/image%20%284%29.png)
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ 菜单选择画面，可根据采购人需要选择不同的功能。.
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 
 
 

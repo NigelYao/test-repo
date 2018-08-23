@@ -10,13 +10,13 @@ description: 欢迎使用北京政府采购监督管理平台
 
 本系统同时会和我们的政府采购网门户、中国政府采购网进行数据同步，力争简化采购人和代理机构的各项工作流程，在符合法律法规的前提下，发挥大数据、云计算的优势，提升采购人和代理机构的工作效率！
 
-![&#x7CFB;&#x7EDF;&#x767B;&#x5F55;&#x9875;&#x9762;](.gitbook/assets/image%20%288%29.png)
+![&#x7CFB;&#x7EDF;&#x767B;&#x5F55;&#x9875;&#x9762;](.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="info" %}
 本系统满足财政部87号令和北京市地方政府采购法规的各项要求
 {% endhint %}
 
-![&#x7CFB;&#x7EDF;&#x5DE5;&#x4F5C;&#x53F0;&#x5168;&#x666F;](.gitbook/assets/image%20%287%29.png)
+![&#x7CFB;&#x7EDF;&#x5DE5;&#x4F5C;&#x53F0;&#x5168;&#x666F;](.gitbook/assets/image%20%2816%29.png)
 
 ## 需要您的支持
 
