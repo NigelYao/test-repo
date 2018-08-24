@@ -1,5 +1,5 @@
 ---
-description: 本文介绍项目立项及项目委托代理机构的操作
+description: 本文介绍项目立项及项目委托代理机构的操作。
 ---
 
 # 我要立项并委托代理机构
@@ -8,12 +8,12 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 采购人登陆后，点击页面【发起工作】按钮，进入操作选择菜单，然后选择【采购计划立项】菜单，进入立项的页面
 
-![&#x9009;&#x62E9;&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x7ACB;&#x9879;&#x83DC;&#x5355;](.gitbook/assets/image%20%2825%29.png)
+![&#x9009;&#x62E9;&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x7ACB;&#x9879;&#x83DC;&#x5355;](.gitbook/assets/image%20%2858%29.png)
 
   
 
 
-![&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x7ACB;&#x9879;&#x9875;&#x9762;](.gitbook/assets/image%20%2818%29.png)
+![&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x7ACB;&#x9879;&#x9875;&#x9762;](.gitbook/assets/image%20%2849%29.png)
 
 ## 采购计划立项-编辑
 
@@ -21,7 +21,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 当前采购计划项目信息
 
-![&#x5F53;&#x524D;&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x9879;&#x76EE;&#x4FE1;&#x606F;](.gitbook/assets/image%20%2810%29.png)
+![&#x5F53;&#x524D;&#x91C7;&#x8D2D;&#x8BA1;&#x5212;&#x9879;&#x76EE;&#x4FE1;&#x606F;](.gitbook/assets/image%20%2825%29.png)
 
 {% hint style="info" %}
 展示了 采购计划的名称、编号、包含包组数量以及计划金额等信息。
@@ -29,7 +29,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 选择立项品目
 
-![&#x9009;&#x62E9;&#x7ACB;&#x9879;&#x54C1;&#x76EE;](.gitbook/assets/image%20%2817%29.png)
+![&#x9009;&#x62E9;&#x7ACB;&#x9879;&#x54C1;&#x76EE;](.gitbook/assets/image%20%2846%29.png)
 
 ```text
 选择立项品目；
@@ -38,7 +38,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 查看立项品目
 
-![&#x67E5;&#x770B;&#x7ACB;&#x9879;&#x54C1;&#x76EE;](.gitbook/assets/image.png)
+![&#x67E5;&#x770B;&#x7ACB;&#x9879;&#x54C1;&#x76EE;](.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
 查看已立项品目信息。
@@ -46,7 +46,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 选择组织形式，采购方式，实施形式
 
-![&#x9009;&#x62E9;&#x7EC4;&#x7EC7;&#x5F62;&#x5F0F;&#xFF0C;&#x91C7;&#x8D2D;&#x65B9;&#x5F0F;&#xFF0C;&#x5B9E;&#x65BD;&#x5F62;&#x5F0F;](.gitbook/assets/image%20%282%29.png)
+![&#x9009;&#x62E9;&#x7EC4;&#x7EC7;&#x5F62;&#x5F0F;&#xFF0C;&#x91C7;&#x8D2D;&#x65B9;&#x5F0F;&#xFF0C;&#x5B9E;&#x65BD;&#x5F62;&#x5F0F;](.gitbook/assets/image%20%284%29.png)
 
 {% hint style="info" %}
 必选项，不选择的话，无法进行立项
@@ -54,9 +54,9 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 选择代理机构
 
-![&#x9009;&#x62E9;&#x4EE3;&#x7406;&#x673A;&#x6784;](.gitbook/assets/image%20%2824%29.png)
+![&#x9009;&#x62E9;&#x4EE3;&#x7406;&#x673A;&#x6784;](.gitbook/assets/image%20%2857%29.png)
 
-![&#x9009;&#x62E9;&#x4EE3;&#x7406;&#x673A;&#x6784;](.gitbook/assets/image%20%2820%29.png)
+![&#x9009;&#x62E9;&#x4EE3;&#x7406;&#x673A;&#x6784;](.gitbook/assets/image%20%2851%29.png)
 
 ```text
 根据代理机构名称（模糊查询）、编号，搜索代理机构
@@ -65,7 +65,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ### 编辑立项信息
 
-![&#x7F16;&#x8F91;&#x7ACB;&#x9879;&#x4FE1;&#x606F;](.gitbook/assets/image%20%287%29.png)
+![&#x7F16;&#x8F91;&#x7ACB;&#x9879;&#x4FE1;&#x606F;](.gitbook/assets/image%20%2819%29.png)
 
 ```text
 项目编号不可更改；
@@ -80,7 +80,7 @@ description: 本文介绍项目立项及项目委托代理机构的操作
 
 ## 采购计划立项-完成
 
-![&#x7ACB;&#x9879;&#x6210;&#x529F;](.gitbook/assets/image%20%288%29.png)
+![&#x7ACB;&#x9879;&#x6210;&#x529F;](.gitbook/assets/image%20%2821%29.png)
 
-![&#x6211;&#x7684;&#x9879;&#x76EE;&#x5217;&#x8868;&#x67E5;&#x770B;&#x7ACB;&#x9879;&#x4FE1;&#x606F;](.gitbook/assets/image%20%281%29.png)
+![&#x6211;&#x7684;&#x9879;&#x76EE;&#x5217;&#x8868;&#x67E5;&#x770B;&#x7ACB;&#x9879;&#x4FE1;&#x606F;](.gitbook/assets/image%20%282%29.png)
 
